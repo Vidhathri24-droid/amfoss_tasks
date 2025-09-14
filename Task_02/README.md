@@ -23,14 +23,7 @@ The goal: **solve challenging algorithmic problems as fast and efficiently as po
 ---
 
 ## Tech Stack
-- **Language:** Python / C++ / Java (replace with what you used) 
+- **Language:** Python 
 - **Platform:** HackerRank 
 
 ---
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/coderush-global-offensive.git
-   cd coderush-global-offensive
-
